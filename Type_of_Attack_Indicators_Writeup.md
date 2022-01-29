@@ -140,7 +140,7 @@ Keyloggers are not inherently malicious but these are the traits that make it ma
 - against the user's interest
 ___
 ## Remote-Access Trojans (RATs)
-**Def: A toolkit designed to provide the capability of covert surveillance and/or the capability to gain unauthorized access to a target system. **
+**Def: A toolkit designed to provide the capability of covert surveillance and/or the capability to gain unauthorized access to a target system.**
 
 They often mimic the behaviour of keyloggers and packet sniffers using automated collection of keystrokes, usernames, passwords, screenshots, browser history, emails, chat logs, and more
 
