@@ -196,7 +196,7 @@ Exploit trust relationship between server and target
 ## Cross-Site Request Forgery (XSRF)
 **Def:  An attack that utilizes unintended behavior that are proper in defined use but  performed outside the authorized use**
 
-This is an example of a confused deputy problem, where one entity mistakenly performs an anction on behalf of another. 
+This is an example of a confused deputy problem, where one entity mistakenly performs an an action on behalf of another. 
 
 ---
 ## Application Programming Interface (API) Attacks
