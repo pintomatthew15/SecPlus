@@ -10,7 +10,7 @@
 ## Actors and Threats
 
 ### Unstructured Threats
-**Def: Attacks that are performed typically by individuals or small groups.
+**Def: Attacks that are performed typically by individuals or small groups.**
 
 Attacks at this level generally are conducted over short periods of time (lasting at most a few months)
 
