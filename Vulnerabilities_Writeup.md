@@ -21,7 +21,7 @@ These are dangerous because they are unkown and unpredicatable in regards to wha
 
 One way to help mitigate against zero days is using compensating controls
 
-### Weak Configurations
+## Weak Configurations
 Most systems have significant configuration options that administrators can adjust to enable or disable functionality based on usage. 
 
 When a system suffers from misconfiguration or **weak configuration**, it may not achieve all of the desired performance or security objectives.
