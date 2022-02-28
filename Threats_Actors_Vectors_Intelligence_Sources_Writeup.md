@@ -263,7 +263,7 @@ This is done by curating large quantities of data from multiple sources and sift
 Attribution is difficult and just because an attack comes from an IP in a certain city does not mean the attack actually originated from there. 
 
 ### File/Code Repositories
-**Def: act as locations where people can work together on projects and dvelop software.**
+**Def: act as locations where people can work together on projects and develop software.**
 
 They offer a source of information to adversaries about how software is built, giving them a chance to to examine the source code for volunerabilities. 
 
