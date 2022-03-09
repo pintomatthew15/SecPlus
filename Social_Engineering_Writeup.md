@@ -31,7 +31,7 @@ Another common example of phising involves the attacker sending a bulk e-mail su
 **NOTE: Phising is the most common form of social engineering attacks related to computer security**
 --- 
 ## Smishing
-**Def: An attack using Short Message Service (SMS) on victims cellphones **
+**Def: An attack using Short Message Service (SMS) on victims cellphones**
 
 Like phishing but with SMS
 
@@ -66,7 +66,7 @@ ___
 Same as spam just using SMS not email
 ___
 ## Spear Phishing 
-**Def: phishing attack that targets a specific person or group of people with something in common **
+**Def: phishing attack that targets a specific person or group of people with something in common**
 
 Because the targer is specific enough, the ratio of successful attacks to the total number of e-mails or messages sent usually increases
 
@@ -124,7 +124,7 @@ In social engineering this means, supplying information that another will act up
 Example: Saying they were sent by  the target's boss, or another authority figure, as a means to justify why the target should perform a specific action.
 ___
 ## Identity Fraud
-**Def: The use of fake credentials to achieve an end.**
+**Def: The use of fake credentials to achieve an end.** 
 
 Can often be high risk or low risking depending on who is being impersonated
 ___
@@ -149,7 +149,7 @@ ___
 **Def: Causes users to take some sort of action that weakens security**
 ___
 ## Impersonation
-**Def: Attacker assumes a role taht is recognized by the person being attacked
+**Def: Attacker assumes a role taht is recognized by the person being attacked**
 
 Attacker uses the victim's biases against their better judgement
 ___
@@ -162,7 +162,7 @@ ___
 These actions create the appearence of a third party organization when there is in fact none
 ___
 ## Contractors/Outside Parties
-** Def: Pretending to be a contractor or outside party to gain access to areas or materials**
+**Def: Pretending to be a contractor or outside party to gain access to areas or materials**
 
 Best defense for any impersonation attack is some form of ID checking
 ___
@@ -176,7 +176,7 @@ They are typically complex to achieve and are backed by nation-states and other 
 Typically utlizie zero-day attacks to further avoid detection
 ___
 ## Typosquatting
-**Def: an attack that involves capitalizing upon common typographical errors. **
+**Def: an attack that involves capitalizing upon common typographical errors.**
 
 Example: Users mistypes a URL and accidentally redirects to the attacker's page
 
