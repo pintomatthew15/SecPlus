@@ -232,7 +232,7 @@ Because a threat actor has limited information about how a system is architected
 This fake configuration is not part of your enterprise configurations, so no system or person should ever touch something fake unless they are actively seeking something or there is a misconfiguration.
 
 ### Honeypots
-**Def: A server that is designed to act like a real server on a corporate network, but rather than having real data, the honeypot possesses fake data. 
+**Def: A server that is designed to act like a real server on a corporate network, but rather than having real data, the honeypot possesses fake data.**
 
 A honeypot acts as a trap for attackers, as traffic in the honeypot can be assumed to be malicious. 
 
